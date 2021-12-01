@@ -39,101 +39,101 @@ function init(){
     /////eventos botones nuemricos
     uno.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "1";
+        resultado.textContent += "1";
         if(!operacion){
-            n1.textContent = n1.textContent + "1";
+            n1.textContent += "1";
         }else{
-            n2.textContent = n2.textContent + "1";
+            n2.textContent += "1";
         }
     }
     dos.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "2";
+        resultado.textContent += "2";
         if(!operacion){
-            n1.textContent = n1.textContent + "2";
+            n1.textContent += "2";
         }else{
-            n2.textContent = n2.textContent + "2";
+            n2.textContent += "2";
         }
     }
     tres.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "3";
+        resultado.textContent += "3";
         if(!operacion){
-            n1.textContent = n1.textContent + "3";
+            n1.textContent += "3";
         }else{
-            n2.textContent = n2.textContent + "3";
+            n2.textContent += "3";
         }
     }
     cuatro.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "4";
+        resultado.textContent += "4";
         if(!operacion){
-            n1.textContent = n1.textContent + "4";
+            n1.textContent += "4";
         }else{
-            n2.textContent = n2.textContent + "4";
+            n2.textContent += "4";
         }
     }
     cinco.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "5";
+        resultado.textContent += "5";
         if(!operacion){
-            n1.textContent = n1.textContent + "5";
+            n1.textContent += "5";
         }else{
-            n2.textContent = n2.textContent + "5";
+            n2.textContent += "5";
         }
     }
     seis.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "6";
+        resultado.textContent += "6";
         if(!operacion){
-            n1.textContent = n1.textContent + "6";
+            n1.textContent += "6";
         }else{
-            n2.textContent = n2.textContent + "6";
+            n2.textContent += "6";
         }
     }
     siete.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "7";
+        resultado.textContent += "7";
         if(!operacion){
-            n1.textContent = n1.textContent + "7";
+            n1.textContent += "7";
         }else{
-            n2.textContent = n2.textContent + "7";
+            n2.textContent += "7";
         }
     }
     ocho.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "8";
+        resultado.textContent += "8";
         if(!operacion){
-            n1.textContent = n1.textContent + "8";
+            n1.textContent += "8";
         }else{
-            n2.textContent = n2.textContent + "8";
+            n2.textContent += "8";
         }
     }
     nueve.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "9";
+        resultado.textContent += "9";
         if(!operacion){
-            n1.textContent = n1.textContent + "9";
+            n1.textContent += "9";
         }else{
-            n2.textContent = n2.textContent + "9";
+            n2.textContent += "9";
         }
     }
     cero.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + "0";
+        resultado.textContent += "0";
         if(!operacion){
-            n1.textContent = n1.textContent + "0";
+            n1.textContent += "0";
         }else{
-            n2.textContent = n2.textContent + "0";
+            n2.textContent += "0";
         }
     }
     punto.onclick = function(e){
         nuevo();
-        resultado.textContent = resultado.textContent + ".";
+        resultado.textContent += ".";
         if(!operacion){
-            n1.textContent = n1.textContent + ".";
+            n1.textContent += ".";
         }else{
-            n2.textContent = n2.textContent + ".";
+            n2.textContent += ".";
         }
     }
 
