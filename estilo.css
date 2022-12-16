@@ -19,6 +19,7 @@ background-color: teal;
     height: 60px;
     font-size: 30px;
     border-radius: 10px;
+    cursor: pointer;
 }
 #suma, #resta, #multiplicacion, #division{
     font-size: 50px;
